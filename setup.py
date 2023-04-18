@@ -3,9 +3,9 @@ from typing import List
 
 #Declaring variables for setup functions
 PROJECT_NAME="kafka"
-VERSION="0.0.3"
-AUTHOR="Avnish Yadav"
-DESRCIPTION="This is a sample project for kafka producer and consumer"
+VERSION="0.0.1"
+AUTHOR="Deepak Jangid"
+DESRCIPTION="A sensor based fault detection using machine learning approach."
 
 REQUIREMENT_FILE_NAME="requirements.txt"
 
